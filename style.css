@@ -71,7 +71,7 @@
     border-radius: 50%;
     margin-bottom: -120px;
     margin-right: 24px;
-    background-image: image("/img/marcio.jpg");
+    background-image: url("/img/marcio.jpg");
   }
   
   /*Tag main : corpo principal do site*/
