@@ -71,7 +71,6 @@
     border-radius: 50%;
     margin-bottom: -120px;
     margin-right: 24px;
-    background-image: url("/img/marcio.jpg");
   }
   
   /*Tag main : corpo principal do site*/
@@ -207,6 +206,10 @@
     width: 400px;
     height: 280px;
     border-radius: 4px;
+  }
+
+  .projeto-foto1 img{
+
   }
   
   .projeto a{
